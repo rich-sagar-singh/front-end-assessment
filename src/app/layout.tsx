@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dog Finder - Find Your Perfect Match",
+  title: "Furry Friends",
   description:
     "Browse dogs, find your favorite, and get matched with your perfect furry friend!",
 };
